@@ -1,2 +1,2 @@
 # DHT11-ESP32CAM-MQTT-Grafana
-DHT11-ESP32CAM-MQTT-Grafana Envios de multiples temas
+Este repositorio contiene los flows y codigos para trabajar con Grafana y el ESP32CAM reportando los datos del sensor DHT11
